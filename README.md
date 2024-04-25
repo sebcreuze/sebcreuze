@@ -19,8 +19,10 @@ Je suis un jeune développeur plein d'énergie et de créativité, qui jongle av
 ![](https://github-contributor-stats.vercel.app/api?username=sebcreuze&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sebcreuze&icon=2&color=3)](https://visitcount.itsvg.in)
 
 <img src="https://raw.githubusercontent.com/NicolasLma/NicolasLma/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+[![](https://visitcount.itsvg.in/api?id=sebcreuze&icon=2&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
