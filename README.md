@@ -21,4 +21,6 @@ Je suis un jeune développeur plein d'énergie et de créativité, qui jongle av
 ---
 [![](https://visitcount.itsvg.in/api?id=sebcreuze&icon=2&color=3)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/NicolasLma/NicolasLma/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
